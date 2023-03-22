@@ -2,7 +2,7 @@
 
 ## Overview
 
-* Implementation of some algorithms from this [book](https://www.amazon.com/Algorithms-Every-Programmer-Should-Know/dp/1789801214)
+* Implementation of some algorithms from this [book](https://www.amazon.com/Algorithms-Every-Programmer-Should-Know/dp/1789801214) as a personal challenge
 
 ## Features
 * The implementation of the algorithms are in only academic purpose
